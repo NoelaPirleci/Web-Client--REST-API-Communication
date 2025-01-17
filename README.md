@@ -65,7 +65,3 @@ Pentru comanda **LOGOUT**:
 **Alegere folosire biblioteca speciala pentru JSON**
 
 Pentru parsarea datelor, am ales sa folosesc biblioteca *parson*, deoarece mi s-a parut mai simplu sa folosesc niste functii deja implementate, decat sa incerc sa fac manual aceste afisari. Dupa ce am terminat tema, cred ca a fost o decizie corecta sa fac acest lucru, pentru ca altfel mi-ar fi luat mult mai mult timp sa implementez si aceste aspecte. 
-
-**Feedback**
-
-A fost o tema interesanta si mi s-a parut putin mai digerabila fata de celelalte. Nu a fost foarte mult cod de scris si mi-a placut faptul ca a fost destul de bine explicat ceea ce am avut de facut, dar in acelasi timp a fost lasat si la latitudinea noastra modul de implementare, astfel reusind sa ne punem cumva amprenta prin intermediul tratarii erorilor si al mesajelor de eroare/succes.
